@@ -11,7 +11,6 @@ RUN apt update
 RUN apt install wget -y
 
 RUN mkdir /forgeserver
-WORKDIR /forgeserver
 
 RUN mkdir /tmp/serverfiles
 COPY script.sh /tmp/serverfiles/script.sh
