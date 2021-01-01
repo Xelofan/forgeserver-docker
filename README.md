@@ -10,4 +10,3 @@ docker run
     -e EULA="true" #optional
     na ez még nem jó
 ```
-"# forgeserver-docker" 
