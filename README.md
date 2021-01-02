@@ -13,7 +13,6 @@ docker run \
     -e EULA="true" \
     -d \
     xelofan/forgeserver-docker
-
 ```
 All environment variables are optional, the values specified here are the defaults values.
 
