@@ -1,5 +1,7 @@
 # forgeserver-docker
 
+**This repo is no longer maintained, use [itzg's Minecraft Server](https://hub.docker.com/r/itzg/minecraft-server) image instead, it's much better.**
+
 To run the image use the example below:
 ```
 docker run \
